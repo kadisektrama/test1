@@ -37,6 +37,11 @@ function findString() {
     return "hello";
 }
 
+/**
+ * A description of the entire function.
+ *
+ * @return {number} description of return value
+ */
 function dosomething() {
     return 1;
 }
