@@ -27,3 +27,7 @@ function sub(a, b) {
 function findNumber() {
     return 1;
 }
+
+function findString() {
+    return "hello";
+}
