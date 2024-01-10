@@ -47,3 +47,5 @@ function dosomething() {
 }
 
 let a = 'dsf'
+
+let b = 1
