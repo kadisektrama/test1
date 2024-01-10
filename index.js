@@ -18,3 +18,32 @@ function sum(a, b) {
 function sub(a, b) {
     return a - b;
 }
+
+/**
+ * Find a number.
+ *
+ * @return {number} The number found.
+ */
+function findNumber() {
+    return 1;
+}
+
+/**
+ * Finds a specific string.
+ *
+ * @return {string} The string "hello".
+ */
+function findString() {
+    return "hello";
+}
+
+/**
+ * A description of the entire function.
+ *
+ * @return {number} description of return value
+ */
+function dosomething() {
+    return 1;
+}
+
+let a = 'dsf'
