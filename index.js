@@ -19,6 +19,11 @@ function sub(a, b) {
     return a - b;
 }
 
+/**
+ * Find a number.
+ *
+ * @return {number} The number found.
+ */
 function findNumber() {
     return 1;
 }
