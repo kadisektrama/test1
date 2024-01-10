@@ -28,6 +28,11 @@ function findNumber() {
     return 1;
 }
 
+/**
+ * Finds a specific string.
+ *
+ * @return {string} The string "hello".
+ */
 function findString() {
     return "hello";
 }
