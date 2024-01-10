@@ -36,3 +36,7 @@ function findNumber() {
 function findString() {
     return "hello";
 }
+
+function dosomething() {
+    return 1;
+}
