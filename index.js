@@ -45,3 +45,5 @@ function findString() {
 function dosomething() {
     return 1;
 }
+
+let a = 'dsf'
